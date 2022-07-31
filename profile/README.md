@@ -3,7 +3,7 @@
 > a24zlab:
 
 - [x] website: http://a24z.co/
-- [x] twitter: https://twitter.com/a24zlab
+- [x] twitter: https://twitter.com/a24zhq
 
 
 
